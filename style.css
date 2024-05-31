@@ -1,0 +1,42 @@
+#tab1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    color: white;
+}
+#web{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    height: 100px;
+}
+#navpic{
+    background-color: aquamarine;
+    height: 100px;
+    width: 110px;
+}
+#date{
+    background-color: aquamarine;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.link{
+    width: 185px;
+}
+#content{
+    margin:50px;
+}
+#con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    gap: 10px;
+}

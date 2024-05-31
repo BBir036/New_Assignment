@@ -41,5 +41,11 @@
     gap: 10px;
 }
 #pics{
-    margin-left: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contact{
+    margin-left: 50px;
 }

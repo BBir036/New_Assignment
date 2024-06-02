@@ -49,3 +49,9 @@
 #contact{
     margin-left: 50px;
 }
+#f1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

@@ -6,20 +6,20 @@
     color: white;
 }
 #web{
-    width: 800px;
+    width: 1000px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: aquamarine;
+    background-color:cadetblue;
     height: 100px;
 }
 #navpic{
-    background-color: aquamarine;
+    background-color:cadetblue;
     height: 100px;
     width: 110px;
 }
 #date{
-    background-color: aquamarine;
+    background-color:cadetblue;
     height: 100px;
     display: flex;
     flex-direction: column;
@@ -28,7 +28,7 @@
     padding-right: 5px;
 }
 .link{
-    width: 185px;
+    width: 220px;
 }
 #content{
     margin:50px;
